@@ -9,10 +9,11 @@ export default function Hero() {
           <Typewriter text="Hi, I’m Savithma Jayasena." speed={50} />
         </h1>
 
-        <p className="subheading">
-          I’m a second-year Computer Science undergraduate at UCSC.
-          I enjoy building practical software and making it easier to use.
-        </p>
+      <p className="subheading">
+  I like turning ideas into software people can use. I’ve built web and
+  desktop apps, and I’m currently exploring mobile app development as well.
+  
+</p>
 
         <div className="hero-actions">
           <a href="#work" className="hero-button">

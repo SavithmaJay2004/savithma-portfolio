@@ -443,3 +443,15 @@ body { margin: 0; }
   margin-top: 4px;
   margin-bottom: 0;
 }
+
+.project-image {
+  display: block;
+  width: min(100%, 640px);
+  height: auto;
+  margin: 12px 0 16px;
+  border-radius: 12px;
+}
+
+.footer .contact .contact-email a {
+  color: #fff;
+}
